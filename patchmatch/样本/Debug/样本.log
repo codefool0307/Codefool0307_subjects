@@ -1,0 +1,52 @@
+﻿  pch.cpp
+  pm.cpp
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.h(197): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.h(197): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.cpp(54): warning C4244: “初始化”: 从“_Tp”转换到“float”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.cpp(89): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.cpp(93): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.cpp(144): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.cpp(146): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.cpp(184): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.cpp(261): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.cpp(284): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.cpp(466): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.cpp(468): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.cpp(472): warning C4244: “参数”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.cpp(557): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.cpp(559): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.cpp(780): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.cpp(792): warning C4244: “初始化”: 从“const _Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+  样本.cpp
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.h(197): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.h(197): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1258,5): error MSB3191: 无法创建目录“D:\exercise\毕业设计代码\毕业设计代码\样本\ .\Debug”。未能找到路径“D:\exercise\毕业设计代码\毕业设计代码\样本\ .\Debug”的一部分。

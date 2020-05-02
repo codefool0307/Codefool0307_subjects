@@ -1,0 +1,8 @@
+﻿  样本.cpp
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.h(197): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\exercise\毕业设计代码\毕业设计代码\样本\pm.h(197): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+d:\exercise\毕业设计代码\毕业设计代码\样本\样本.cpp(39): warning C4129: “e”: 不可识别的字符转义序列
+d:\exercise\毕业设计代码\毕业设计代码\样本\样本.cpp(39): warning C4129: “: 不可识别的字符转义序列
+d:\exercise\毕业设计代码\毕业设计代码\样本\样本.cpp(40): warning C4129: “e”: 不可识别的字符转义序列
+d:\exercise\毕业设计代码\毕业设计代码\样本\样本.cpp(40): warning C4129: “: 不可识别的字符转义序列
+  样本.vcxproj -> D:\exercise\毕业设计代码\毕业设计代码\x64\Debug\样本.exe
